@@ -1,0 +1,8 @@
+moonwitness/_build/
+moonwitness/target/
+moonwitness/dist/
+moonwitness/.mooncakes/
+moonwitness/node_modules/
+moonwitness/test-results/
+moonwitness/playwright-report/
+*.log
